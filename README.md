@@ -1,4 +1,4 @@
-# Digger - All In One Your Information Gathering Tool 
+# Digger - All In One Information Gathering Tool 
 <img src="https://img.shields.io/aur/license/yaourt.svg"> <img src="https://img.shields.io/badge/python-3.x-brightgreen.svg"> <img src="https://img.shields.io/badge/release-v1.0-red.svg"> 
 
 Digger is a multi functional tool written in python for all of your primary data gathering wants. It makes use of APIs to assemble all the data so your id just isn’t uncovered.
