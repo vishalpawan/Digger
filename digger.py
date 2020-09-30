@@ -29,8 +29,8 @@ def wlogo():
 
  [Coded By Sameera a.k.a άλφα Χ]
 
-    {1}--Whois lookup
-    {2}--Traceroute
+    {1}--Who is lookup
+    {2}--Trace route
     {3}--DNS Lookup
     {4}--Reverse DNS Lookup
     {5}--GeoIP Lookup
@@ -54,7 +54,7 @@ def llogo():
 \033[37m[Coded By Sameera a.k.a άλφα Χ]
      \033[32m
 
-    {1}--Whois lookup
+    {1}--Who is lookup
     {2}--Traceroute
     {3}--DNS Lookup
     {4}--Reverse DNS Lookup
@@ -208,7 +208,7 @@ def choice():
                 quit()
 
             else:
-                digg = str(input("Sorry!Invalid Selection. Do You Wish to Quit[yes/no] - ").lower())
+                digg = str(input("Sorry! Invalid Selection. Do You Wish to Quit[yes/no] - ").lower())
                 if digg == "yes":
                     quit()
                 if digg == "no":
